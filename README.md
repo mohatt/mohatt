@@ -4,7 +4,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Flutter, Go
-- 💬 Ask me about anything related to Javascript/Typescript/PHP or Angular/React/Symfony
+- 💬 Ask me about anything related to PHP/Javascript/Typescript or Angular/React/Symfony
 - 📫 How to reach me: [mohatt.web.app](https://mohatt.web.app) or mohatt@pm.me
 - ⚡ Fun fact: I :heart: card games
 
