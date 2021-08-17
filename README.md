@@ -3,7 +3,7 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Flutter, Go
+- 🌱 I’m currently learning Go
 - 💬 Ask me about anything related to PHP/Node.js/Typescript or Angular/React/Symfony
 - 📫 How to reach me: [mohatt.web.app](https://mohatt.web.app) or mohatt@pm.me
 - ⚡ Fun fact: I like card games
