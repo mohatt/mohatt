@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mohatt-grs.vercel.app/top-langs/?username=mohatt&count_private=true&show_icons=true&hide_title=&langs_count=8&layout=compact&theme=github_dark_dimmed">
+  <source media="(prefers-color-scheme: dark)" srcset="https://mohatt-grs.vercel.app/api/top-langs/?username=mohatt&count_private=true&show_icons=true&hide_title=&langs_count=8&layout=compact&theme=github_dark_dimmed">
   <img alt="Mohamed's most used languages" src="https://mohatt-grs.vercel.app/api/top-langs/?username=mohatt&count_private=true&show_icons=true&hide_title=&langs_count=8&layout=compact&theme=default" align="right" />
 </picture>
 
