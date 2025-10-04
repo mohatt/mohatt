@@ -12,7 +12,7 @@ This is the place where I opensource stuff and break things 😆
 - How to reach me: [mohatt.web.app](https://mohatt.web.app) or mohatt@pm.me
 - Fun fact: I like card games ⚡
 
-<br /><br /><br />
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mohatt-grs.vercel.app/api?username=mohatt&show_icons=true&custom_title=Activity&theme=github_dark_dimmed&include_all_commits=true">
