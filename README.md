@@ -13,6 +13,7 @@ This is the place where I opensource stuff and break things 😆
 - Fun fact: I like card games ⚡
 
 &nbsp;
+&nbsp;
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohatt&count_private=true&show_icons=true&custom_title=Activity&theme=github_dark_dimmed">
