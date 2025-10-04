@@ -5,13 +5,12 @@
   <img alt="Mohamed's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohatt&count_private=true&show_icons=true&hide_title=&langs_count=8&layout=compact&theme=default" align="right" />
 </picture>
 
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I opensource stuff and break things 😆
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Go
-- 💬 Ask me about anything related to Node.js/Typescript/Angular/React/Mongo/GraphQL
-- 📫 How to reach me: [mohatt.web.app](https://mohatt.web.app) or mohatt@pm.me
-- ⚡ Fun fact: I like card games
+- Mostly **TypeScript**, **Node.js**, **React** and some **PHP**.
+- I’m currently learning Go
+- How to reach me: [mohatt.web.app](https://mohatt.web.app) or mohatt@pm.me
+- Fun fact: I like card games ⚡
 
 ###
 
