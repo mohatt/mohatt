@@ -13,11 +13,11 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: [mohatt.web.app](https://mohatt.web.app) or mohatt@pm.me
 - ⚡ Fun fact: I like card games
 
-
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mohatt&count_private=true&show_icons=true&custom_title=Activity&theme=github_dark_dimmed">
-  <img alt="Mohamed's most used languages" src="https://github-readme-stats.vercel.app/api?username=mohatt&count_private=true&show_icons=true&custom_title=Activity&theme=default" width="512" />
+  <img alt="Mohamed's most used languages" src="https://github-readme-stats.vercel.app/api?username=mohatt&count_private=true&show_icons=true&custom_title=Activity&theme=default" width="512" align="right" />
 </picture>
 
 ![](https://hit.yhype.me/github/profile?user_id=348753)
