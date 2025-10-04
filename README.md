@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mohatt-grs.vercel.app/api/top-langs/?username=mohatt&show_icons=true&hide_title=&langs_count=8&layout=compact&theme=github_dark_dimmed">
-  <img alt="Mohamed's most used languages" src="https://mohatt-grs.vercel.app/api/top-langs/?username=mohatt&show_icons=true&hide_title=&langs_count=8&layout=compact&theme=default" align="right" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://mohatt-grs.vercel.app/api/top-langs/?username=mohatt&show_icons=true&langs_count=8&layout=compact&theme=github_dark_dimmed">
+  <img alt="Mohamed's most used languages" src="https://mohatt-grs.vercel.app/api/top-langs/?username=mohatt&show_icons=true&langs_count=8&layout=compact&theme=default" align="right" />
 </picture>
 
 This is the place where I opensource stuff and break things 😆
@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things 😆
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://mohatt-grs.vercel.app/api?username=mohatt&show_icons=true&custom_title=Activity&theme=github_dark_dimmed">
-  <img alt="Mohamed's most used languages" src="https://mohatt-grs.vercel.app/api?username=mohatt&show_icons=true&custom_title=Activity&theme=default" align="right" />
+  <img alt="Mohamed's activity" src="https://mohatt-grs.vercel.app/api?username=mohatt&show_icons=true&custom_title=Activity&theme=default" align="right" />
 </picture>
 
 ![](https://hit.yhype.me/github/profile?user_id=348753)
