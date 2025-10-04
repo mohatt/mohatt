@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+  <img alt="Mohamed's most used languages" src="assets/languages-light.svg" width="192" align="right" />
+</picture>
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
